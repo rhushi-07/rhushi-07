@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/rhushi-07/" target="_blank" rel="noopener noreferrer"> Rhushikesh </a>  </samp>
 <h3 align="center"><i>A passionate Game Developer & Full-Stack Developer from India.</i></h3>
-<img align="right" alt="Coding" width="300" src="./programing2.gif">
+<img align="right" alt="Coding" width="300" src="https://valesh.dev/images/coder.gif">
   
   
 <img src="https://komarev.com/ghpvc/?username=rhushi-07&label=Profile%20views&color=0e75b6&style=flat" alt="Rhushikesh" />
