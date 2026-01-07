@@ -66,9 +66,12 @@
 
 ## 📊 GitHub Stats :
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rhushi-07&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=rhushi-07&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rhushi-07&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=rhushi-07&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhushi-07&theme=radical&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhushi-07&theme=radical&layout=compact)
+
 
 
   
