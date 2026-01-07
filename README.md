@@ -1,36 +1,44 @@
-<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="soura-banner">
+<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="banner" />
 
+<h1 align="center">
+  Hi there, I'm 
+  <a href="https://www.linkedin.com/in/rhushi-07/" target="_blank" rel="noopener noreferrer">
+    Rhushikesh
+  </a>
+</h1>
 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/rhushi-07/" target="_blank" rel="noopener noreferrer"> Rhushikesh </a>  </samp>
-<h3 align="center"><i>A passionate Game Developer & Full-Stack Developer from India.</i></h3><br>
-<img align="right" alt="Coding" width="300" src="https://valesh.dev/images/coder.gif">
-  
-  
-<img src="https://komarev.com/ghpvc/?username=rhushi-07&label=Profile%20views&color=0e75b6&style=flat" alt="Rhushikesh" />
-  
-  
-<h2> 👨🏻‍💻 About Me :</h2>
+<h3 align="center"><i>A passionate Game Developer & Full-Stack Developer from India</i></h3>
 
-- 🌱 I’m currently learning **Full-Stack Web Development & Advanced Game Mechanics** 
-- 💬 Ask me about **C#, Unity, State Machines, AI Behavior, Pixel Art, Web Dev (HTML, CSS, JS)** 
-- 📝 I’m currently working on **my 2D action roguelike game *Kyūen*** 
-- 👨‍💻 Check out my projects on **[GitHub](https://github.com/rhushi-07)** 
-- 📫 How to reach me **12rhushikeshgulve@gmail.com**  <br>
-- ☕ I believe **a well-balanced combat system is as satisfying as a perfect cup of coffee.** 
+<br/>
 
+<img align="right" alt="Coding" width="300" src="https://valesh.dev/images/coder.gif"/>
 
+<img src="https://komarev.com/ghpvc/?username=rhushi-07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 
-## 🌐 Socials :
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rhushikesh-gulave-689b61288) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PyreStudios) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:12rhushikeshgulve@gmail.com) 
+## 👨🏻‍💻 About Me
 
+- 🌱 Currently learning **Full-Stack Web Development & Advanced Game Mechanics**
+- 💬 Ask me about **C#, Unity, State Machines, AI Behavior, Pixel Art, HTML, CSS, JS**
+- 📝 Working on my **2D action roguelike game – _Kyūen_**
+- 👨‍💻 All projects available on **[GitHub](https://github.com/rhushi-07)**
+- 📫 Reach me at **12rhushikeshgulve@gmail.com**
+- ☕ I believe **a well-balanced combat system is as satisfying as a perfect cup of coffee**
 
-## 💻 Technologies :
+---
 
-#### Language 
+## 🌐 Socials
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rhushikesh-gulave-689b61288)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PyreStudios)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:12rhushikeshgulve@gmail.com)
+
+---
+
+## 💻 Technologies
+
+### Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
@@ -39,44 +47,40 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-#### Libraries & Framework 
+### Libraries & Frameworks
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
-#### Servers
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-
-#### Tools 
-
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
+### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Git](https://img.shields.io/badge/-Filmora-black?style=flat-square&logo=git)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
+---
 
+## 🚀 Currently Building
 
-## 📊 GitHub Stats :
+- **Kyūen** – 2D action roguelike with elemental combat & AI state machines  
+- Modular Unity enemy & projectile framework  
+- Machine learning classification projects  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rhushi-07&theme=radical)
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhushi-07&theme=radical&show_icons=true)
+## 📊 GitHub Snapshot
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhushi-07&theme=radical&layout=compact)
+![Followers](https://img.shields.io/github/followers/rhushi-07?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/rhushi-07?style=for-the-badge)
 
+---
 
+## ✍️ Philosophy
 
-  
-## ✍️ Quote :
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
+> Simple systems create deep gameplay.
